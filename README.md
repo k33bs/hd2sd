@@ -4,7 +4,7 @@ Follow these steps to generate a new StreamDock Scene populated with stratagem b
 
 ## Quick Start: Pre-generated Scene (No Generator)
 
-- Download the pre-generated Scene from the Releases page.
+- Download the pre-generated Scene from the [Releases page](https://github.com/k33bs/hd2sd/releases/latest).
 - In StreamDock, use Import Scene to import it.
 - If it doesn’t appear right away, close the app and open it again.
 
